@@ -38,7 +38,7 @@ cat >"${path_config}" <<EOF
       "LD_LIBRARY_PATH": "."
     }
   },
-  "folder_name": "data",
+  "folder_name": "km-predict/data",
   "product_name": "${input_product}",
   "level_product": "${input_product_level}",
   "overlapping": 0.0625,
